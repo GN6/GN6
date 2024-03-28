@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GN6
-- 👀 I’m interested in competative programming, astrodynamics, aerodynamics, businesses, and economies.
-- 🌱 I’m currently learning statistics, chemistry, and accounting.
+- 👀 I’m interested in competitive programming, astrodynamics, aerodynamics, businesses, and economics.
+- 🌱 I’m currently learning calculus, engineering, and music theory.
 - 💞️ I’m looking to collaborate on anything that would help me gain experience.
 - 📫 You can reach me though my email at todawernher@gmail.com.
 
