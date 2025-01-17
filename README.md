@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @GN6
-- 👀 I’m interested in competitive programming, astrodynamics, aerodynamics, businesses, and economics.
-- 🌱 I’m currently learning calculus, engineering, and music theory.
-- 💞️ I’m looking to collaborate on anything that would help me gain experience.
-- 📫 You can reach me though my email at todawernher@gmail.com.
+Hello! I’m @GN6, a current (Jan. 17th, 2025) high school student with a passion for competitive programming. I began my competitive programming journey in January of 2022 by joining my school's programming team with zero experience. Since then, I've self-studied competitive programming and have shattered school records. In addition, I took a role in coaching my peers on the lessons I've learned and the knowledge I've gained on my journey.
+
+If you would like to contact me, please do so through my email: todawernher@gmail.com
 
 <!---
 GN6/GN6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
